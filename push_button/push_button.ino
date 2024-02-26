@@ -35,5 +35,5 @@ void loop() {
     status = false;
   }
 
-  delay(500);  //a paradinhaaaaa, a paradinha a a a a
+  delay(300);  //a paradinhaaaaa, a paradinha a a a a
 }
