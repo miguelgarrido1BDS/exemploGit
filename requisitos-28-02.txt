@@ -1,0 +1,60 @@
+Levantamento de Requisitos 28/02
+
+Aplicativo de Gerenciamento de Tarefas
+
+--> REQUISITOS
+-Login do aluno -NF                                                                                1             1-Alta prioridade
+-Responsividade -NF                                                                                1             2-Média prioridade
+-Agenda de atividades pendentes - F                                                                2             3-baixa prioridade
+-Aba de Atribuições concluidas/atrasadas - F                                                       2
+-número limitado de projetos -RN                                                                   3
+-chat para suporte - F                                                                             2
+-acessibilidade - NF                                                                               1
+-uso obrigatorio do cpf para cadastro -RN                                                          1
+-Validar cpf -RN                                                                                   1 
+-aba de adição de atividades -F                                                                    2
+-definir a prioridade de atividades em "não importantes, importantes, urgentes" -F                 3
+-aba para criação de equipes -F                                                                    3
+-chat das equipes -F                                                                               3
+-ingressar em equipe pelo codigo da equipe criada -F                                               3 
+-adição de atividades colaborativas em equipe -F                                                   2
+-notificar de atividades de alta prioridade conforme o dia de entrega -NF                          1 
+
+
+Analise FODA
+
+    {Agenda de atividades pendentes   
+Aba de Atribuições concluidas/atrasadas }
+
+    {-aba de adição de atividades
+adição de atividades colaborativas em equipe}   
+** Duplicidade nos requisitos.
+
+
+*** Formalidade de requisitos
+-Adição de tela de login/cadastro do aluno
+-Adicionar agenda de atividades pendendes/concluidas/atrasadas
+-Adicionar chat para suporte do usuario
+-Genrenciar tarefas do usuario
+-Adicionar interface para chat das equipes ingressadas
+
+
+***Falta de requisitos
+
+-Adicionar aba de amigos do usuario
+-Adicionar função de compartilhamento de ativades entre amigos do usuario
+-Adicionar menu para gerenciar o perfil do usuario
+-Gerenciar filtros para visualizar atividades em prioridades
+
+
+
+
+
+
+
+
+
+
+
+
+
